@@ -12,5 +12,5 @@ The following packages can be created:
   - Self extracting zip file for Win64
   - AppImage for Linux
   
-  ![Screenshot of Distribution Tool](./screenshot/screenshot1.png)
+  ![Screenshot of Distribution Tool](screenshot/screenshot.png)
   
