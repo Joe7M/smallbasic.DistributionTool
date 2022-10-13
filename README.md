@@ -11,6 +11,11 @@ The following packages can be created:
   - Package as a directory for Win64
   - Self extracting zip file for Win64
   - AppImage for Linux
+- Distribution Tool for Android
+  - Signed Android apk 
   
-  ![Screenshot of Distribution Tool](screenshot/screenshot.png)
+
+![Distribution Tool for Linux and Windows](screenshot/screenshot.png)
+![Distribution Tool for Android](screenshot/AndroidDistTool.png)
   
+Detailed information on the [SmallBASIC website](https://smallbasic.github.io/pages/distributiontool.html).
