@@ -22,7 +22,7 @@ OS = OS_IS_WIN_64
 
 while(1)
     
-    if nk.windowBegin("Distribution Tool for SmallBASIC 12.24", 1, 1, "100%", "100%", "border", "not_movable", "title", "scrollbar") then
+    if nk.windowBegin("Distribution Tool for SmallBASIC 12.26", 1, 1, "100%", "100%", "border", "not_movable", "title", "scrollbar") then
 
         nk.layoutRow("dynamic", 290, 1)
 
@@ -107,7 +107,7 @@ sub PrintStatus(StatusMessage, Progress)
     dim P
     P.value = Progress
 
-    if nk.windowBegin("Distribution Tool for SmallBASIC 12.24", 1, 1, "100%", "100%", "border", "not_movable", "title", "scrollbar") then
+    if nk.windowBegin("Distribution Tool for SmallBASIC 12.26", 1, 1, "100%", "100%", "border", "not_movable", "title", "scrollbar") then
         nk.layoutRow("dynamic", 25, 1)
         nk.Spacing(4)
         nk.progress(P, 100, false)
